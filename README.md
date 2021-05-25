@@ -20,8 +20,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<img width="1432" alt="Screen Shot 2021-05-25 at 2 10 05 PM" src="https://user-images.githubusercontent.com/74513438/119568989-00eee400-bd63-11eb-8192-c34720b5828b.png">
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 The employee organizer is a fast way to create a team roster for a company. The user is able to select the role of either an engineer, intern, or manager. After selecting the role, the user will be prompted questions that will fill
 
 ### Built With
