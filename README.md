@@ -23,7 +23,6 @@
 The employee organizer is a fast way to create a team roster for a company. The user is able to select the role of either an engineer, intern, or manager. After selecting the role, the user will be prompted questions that will fill
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 
@@ -32,9 +31,7 @@ This section should list any major frameworks that you built your project using.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To start, clone this repository to your local storage and access it through the terminal. 
 
 ### Prerequisites
 
@@ -67,7 +64,7 @@ npm run test
 ``` 
 node app.js
 ```
-
+The informational provided will be printed onto an html page. 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
