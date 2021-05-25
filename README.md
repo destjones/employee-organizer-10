@@ -1,3 +1,5 @@
+
+
 # employee-organizer-10
 
 <!-- TABLE OF CONTENTS -->
@@ -71,7 +73,7 @@ The informational provided will be printed onto an html page.
 
 Here is a demo of how to use the application
 
-
+https://user-images.githubusercontent.com/74513438/119567932-c59fe580-bd61-11eb-9812-5ddcec5d53b1.mp4
 
 
 
